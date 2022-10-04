@@ -1,8 +1,8 @@
 package hu.petrik.sokszogoop;
 
 public abstract class Sokszog {
-
     private double a;
+
     public Sokszog(double a) {
         this.a = a;
     }
@@ -21,6 +21,6 @@ public abstract class Sokszog {
 
     @Override
     public String toString() {
-        return String.format("K =%-15.3f - T =%-15.3f ",this.getKerulet(),this.getTerulet());
+        return String.format("K = %-10.3f T = %-10.3f", this.getKerulet(), this.getTerulet());
     }
 }
