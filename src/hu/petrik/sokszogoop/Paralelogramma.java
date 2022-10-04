@@ -22,10 +22,8 @@ public class Paralelogramma extends Sokszog{
         if (this.alfa < 90.0 || this.alfa > 180.0) {
             szerkesztheto = false;
         }
-
         return szerkesztheto;
     }
-
     public double getAlfa() {
 
         return this.alfa;
