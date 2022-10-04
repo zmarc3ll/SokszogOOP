@@ -69,8 +69,8 @@ public class Haromszog extends Sokszog{
     }
     @Override
     public String toString() {
-        return String.format("háromszög: a = %f - b = %f - c = %f - K = %f - T = %f",
-                this.getA(),this.getB(),this.getC(),this.getKerulet(),this.getTerulet());
+        return String.format("háromszög: a = %f - b = %f - c = %f - %s",
+                this.getA(),this.getB(),this.getC(),super.toString());
     }
 }
 

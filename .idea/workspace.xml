@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df818c53-40c9-4f9e-9206-d5d3fd62489c" name="Changes" comment="haromszog osztály befejezése">
+    <list default="true" id="df818c53-40c9-4f9e-9206-d5d3fd62489c" name="Changes" comment="parameter nelkuli knstruktor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Haromszog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Haromszog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Sokszog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Sokszog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664889364263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="parameter nelkuli knstruktor">
+      <created>1664889755640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664889755640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +97,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="haromszog osztály" />
     <MESSAGE value="haromszog osztály befejezése" />
-    <option name="LAST_COMMIT_MESSAGE" value="haromszog osztály befejezése" />
+    <MESSAGE value="parameter nelkuli knstruktor" />
+    <option name="LAST_COMMIT_MESSAGE" value="parameter nelkuli knstruktor" />
   </component>
 </project>
