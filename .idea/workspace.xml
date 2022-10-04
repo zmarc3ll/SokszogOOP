@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df818c53-40c9-4f9e-9206-d5d3fd62489c" name="Changes" comment="paralelogramma class megírása">
+    <list default="true" id="df818c53-40c9-4f9e-9206-d5d3fd62489c" name="Changes" comment="main be felvétel és kiiratas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664906707492</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="main be felvétel és kiiratas">
+      <created>1664907099263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664907099263</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +140,7 @@
     <MESSAGE value="parameter nelkuli knstruktor" />
     <MESSAGE value="javított feladat" />
     <MESSAGE value="paralelogramma class megírása" />
-    <option name="LAST_COMMIT_MESSAGE" value="paralelogramma class megírása" />
+    <MESSAGE value="main be felvétel és kiiratas" />
+    <option name="LAST_COMMIT_MESSAGE" value="main be felvétel és kiiratas" />
   </component>
 </project>
